@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "db28e976e8774afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "65575cf5f2be5e7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_sidebar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a13a09bbff0c121",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b0de2fdf76d874d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b3bbd248993f39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "deaeed8dd654650f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314
+  },
+  "right": {
+    "id": "4640e99251dc8f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb276676b773e97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac3fe119954ec47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_sidebar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1983e73698e09e5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65575cf5f2be5e7e",
+  "lastOpenFiles": [
+    "_sidebar.md",
+    "科研笔记本/英语表达.md",
+    "科研笔记本/期刊会议.md",
+    "科研笔记本/科研工具.md",
+    "科研笔记本/机器学习/视觉-语言.md",
+    "科研笔记本/机器学习/其他工具.md",
+    "科研笔记本/机器学习/炼丹经验.md",
+    "科研笔记本/机器学习/炼丹工具.md",
+    "科研笔记本/images/Reduce_Memory_&_Accelerate.png",
+    "科研笔记本/images/梯度累积.png"
+  ]
+}
