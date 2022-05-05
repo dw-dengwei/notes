@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_sidebar.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "65575cf5f2be5e7e",
   "lastOpenFiles": [
+    "home.md",
+    "home.md",
     "_sidebar.md",
     "科研笔记本/英语表达.md",
     "科研笔记本/期刊会议.md",
@@ -104,8 +106,6 @@
     "科研笔记本/机器学习/视觉-语言.md",
     "科研笔记本/机器学习/其他工具.md",
     "科研笔记本/机器学习/炼丹经验.md",
-    "科研笔记本/机器学习/炼丹工具.md",
-    "科研笔记本/images/Reduce_Memory_&_Accelerate.png",
-    "科研笔记本/images/梯度累积.png"
+    "科研笔记本/机器学习/炼丹工具.md"
   ]
 }
