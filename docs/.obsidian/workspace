@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "工具使用/Word跨页续表.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "工具使用/Word跨页续表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "65575cf5f2be5e7e",
   "lastOpenFiles": [
-    "home.md",
-    "home.md",
+    "工具使用/Word跨页续表.md",
     "_sidebar.md",
+    "[.md",
+    "README.md",
+    "home.md",
     "科研笔记本/英语表达.md",
     "科研笔记本/期刊会议.md",
     "科研笔记本/科研工具.md",
     "科研笔记本/机器学习/视觉-语言.md",
-    "科研笔记本/机器学习/其他工具.md",
-    "科研笔记本/机器学习/炼丹经验.md",
-    "科研笔记本/机器学习/炼丹工具.md"
+    "科研笔记本/机器学习/其他工具.md"
   ]
 }
