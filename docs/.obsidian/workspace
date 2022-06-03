@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工具使用/Word跨页续表.md",
+            "file": "_sidebar.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 169.99999809265137
   },
   "right": {
     "id": "4640e99251dc8f02",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具使用/Word跨页续表.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "65575cf5f2be5e7e",
   "lastOpenFiles": [
-    "工具使用/Word跨页续表.md",
     "_sidebar.md",
+    "科研笔记本/机器学习/位置编码.md",
+    "科研笔记本/机器学习/视觉-语言.md",
+    "工具使用/Word跨页续表.md",
     "[.md",
     "README.md",
     "home.md",
     "科研笔记本/英语表达.md",
     "科研笔记本/期刊会议.md",
-    "科研笔记本/科研工具.md",
-    "科研笔记本/机器学习/视觉-语言.md",
-    "科研笔记本/机器学习/其他工具.md"
+    "科研笔记本/科研工具.md"
   ]
 }
